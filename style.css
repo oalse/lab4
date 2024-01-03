@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    
+}
+
+a {
+    color: black;
+    text-decoration: none;
+   
+}
+
+ul {
+    list-style:none;
+}
+
+#comp {
+    color: aliceblue;
+    text-decoration: none;
+    background-color: rgb(15, 45, 143);
+}
+
+#menu {
+    background-color: rgb(16, 52, 168);
+    list-style: none;
+    text-align: center;
+    padding: 0px;
+    width: 165px;
+    margin-left: 580px;
+
+}
+
+#dropdown {
+    display: none;
+    
+}
+  
+#menu:hover #dropdown {
+    color: black;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    color: aliceblue;
+    padding: 2px;
+    margin: 0px;
+}
+
+.div {
+    padding: 2px; 
+    margin: -2px;
+    border: 0;
+    border-left:2px solid rgb(69, 129, 176);
+    border-right:2px solid rgb(69, 129, 176);
+    border-left:2px solid rgb(69, 129, 176);
+    
+   
+}
+
+.div1 {
+    margin: -2px;
+    border-top:2px solid rgb(69, 129, 176); 
+    padding: 2px; 
+    border-left:2px solid rgb(69, 129, 176);
+    border-right:2px solid rgb(69, 129, 176);  
+
+}
+.div2 {
+    margin: -2px;
+    border-top:2px solid rgb(69, 129, 176);
+    padding: 2px;  
+    border-left:2px solid rgb(69, 129, 176);
+    border-right:2px solid rgb(69, 129, 176);  
+}
+
+.div3 {
+    margin: -2px;
+    border-top:2px solid rgb(69, 129, 176); 
+    padding: 2px; 
+    border-left:2px solid rgb(69, 129, 176);
+    border-right:2px solid rgb(69, 129, 176);  
+}
+
+.div4 {
+    margin: -2px;
+    border-top:2px solid rgb(69, 129, 176); 
+    padding: 2px; 
+    border-left:2px solid rgb(69, 129, 176);
+    border-right:2px solid rgb(69, 129, 176);  
+    border-left:2px solid rgb(69, 129, 176);
+    border-bottom:2px solid rgb(69, 129, 176);  
+    
+}
+
+.div:hover {
+    background-color: rgb(209, 214, 232); 
+}
+.div1:hover {
+    background-color: rgb(209, 214, 232); 
+}
+.div2:hover {
+    background-color: rgb(209, 214, 232); 
+}
+.div3:hover {
+    background-color: rgb(209, 214, 232); 
+}
+.div4:hover {
+    background-color: rgb(209, 214, 232); 
+}
+
